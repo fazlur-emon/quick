@@ -1,0 +1,172 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: Gotham; 
+}
+header{
+    border-bottom: 1px solid rgb(221, 221, 221);
+}
+.header-part{
+    width: 90%;
+    margin-left: 5%;
+    overflow: hidden;
+   
+}
+.logo{
+ margin-top: 20px;
+ float: left;
+}
+nav{
+ margin-top: 30px;
+ float: right;
+}
+nav ul{
+    list-style: none;
+    overflow: hidden;
+}
+nav ul li {
+    float: left;
+    margin-left: 80px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #3F3D56;
+}
+.content-section{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 50px;
+}
+.content-section h1{
+    text-align: center;
+    color: #363352;
+    font-size: 50px;
+
+}
+.content-section h2{
+    text-align: center;
+    color: #008AFF ;
+    margin-top: 10px;
+    font-size: 40px;
+}
+.content-section p{
+    text-align: center;
+    margin-top: 10px;
+    color: #363352 ;
+    margin-top: 25px;
+}
+.img{
+    text-align: center;
+    margin-top: 50px;
+}
+.img img{
+    text-align: center;
+    width: 50%;
+}
+.project-content{
+    overflow: hidden;
+    margin-top: 50px;
+}
+.left-content{
+   float: left;
+   width: 50%;
+}
+
+.left-content h1{
+   text-align: right;
+   color: #F15767;
+}
+.left-content p{
+   text-align: right;
+   margin-top: 5px;
+}
+.right-content{
+    float: right;
+    width: 45%;
+}
+.right-content h1{
+    text-align: left;
+    font-size: 35px;
+}
+.service{
+    overflow: hidden;
+    margin-top: 30px;
+    width: 90%;
+    margin-left: 5%;
+}
+.service-one{
+    background: #FDEBED;
+    width: 30%;
+    float: left;
+    margin-right: 20px;
+    padding: 10px;
+    text-align: center;
+}
+.service-one img{
+    height: 250px;
+    width: 250px;
+}
+.service-one h2{
+    text-align: left;
+    
+}
+.service-one p{
+    text-align: left;
+    
+}
+.service-two{
+    background: #EBF9F4;
+    width: 30%;
+    float: left;
+    margin-right: 20px;
+    padding: 10px;
+    text-align: center;
+
+
+}
+.service-two img{
+    height: 250px;
+    width: 250px;
+    
+}
+.service-two h2{
+    text-align: left;
+    
+}
+.service-two p{
+    text-align: left;
+    
+}
+.service-three{
+    background: #FFF7E8;
+    width: 30%;
+    float: left;
+    padding: 10px;
+    text-align: center;
+
+}
+.service-three img{
+    height: 250px;
+    width: 250px;
+
+}
+.service-three h2{
+    text-align: left;
+    
+}
+.service-three p{
+    text-align: left;
+}
+footer{
+    background: #008AFF;
+    text-align: center;
+    margin-top: 50px;
+    padding: 30px 0px;
+}
+footer p{
+    color: rgb(221, 221, 221);
+}
+footer p span{
+    text-decoration: solid white;
+    font-weight: bold;
+}
